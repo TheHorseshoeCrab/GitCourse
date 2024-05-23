@@ -79,9 +79,13 @@
       "nombre": "Chuy De Anda",
       "animal": "Perezoso"
     {
+      "nombre": "Yaír",
+      "animal": "Dolphin"
+    },
+=======
+    {
       "nombre": "AlejandroGE",
       "animal": "Crocodile"
     }
-    
   ]
 }
