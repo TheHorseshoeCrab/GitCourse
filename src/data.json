@@ -72,12 +72,33 @@
     {
       "nombre": "gilberto",
       "animal": "Fox"
-
     },
     {
       "nombre": "DZarate",
       "animal": "Poni"
+    },
+    {
+      "nombre": "Alberto Palacios",
+      "animal": "Tiburon"
     }
-
+      "nombre": "Kenyu",
+      "animal": "whale"
+    },
+    {
+      "nombre": "Fiorella",
+      "animal": "perro"
+    },
+    {
+      "nombre": "Chuy De Anda",
+      "animal": "dog"
+    },
+    {
+      "nombre": "Yaír",
+      "animal": "Dolphin"
+    },
+    {
+      "nombre": "AlejandroGE",
+      "animal": "Crocodile"
+    }
   ]
 }
