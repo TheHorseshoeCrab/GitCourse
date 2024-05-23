@@ -74,6 +74,11 @@
       "animal": "Fox"
 
     },
+    {
+      "nombre": "Fiorella",
+      "animal": "perro"
+
+    }
 
     {
       "nombre": "Chuy De Anda",
@@ -82,7 +87,6 @@
       "nombre": "Yaír",
       "animal": "Dolphin"
     },
-=======
     {
       "nombre": "AlejandroGE",
       "animal": "Crocodile"
