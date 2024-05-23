@@ -75,11 +75,13 @@
 
     },
     {
+      "nombre": "Kenyu",
+      "animal": "whale"
+    },
+    {
       "nombre": "Fiorella",
       "animal": "perro"
-
-    }
-
+    },
     {
       "nombre": "Chuy De Anda",
       "animal": "Perezoso"
