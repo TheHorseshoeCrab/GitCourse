@@ -11,3 +11,6 @@ Read and review the slides in the presentation folder.
 ## To practice what you learned
 Clone this repository and create a new branch. Then, add your data as mentioned in [https://git.roborregos.com/](https://git.roborregos.com/) and create a pull request to merge your changes to the main branch.
 
+## Git presentation
+https://www.canva.com/design/DAGQMXUbCtY/fZhjT77RiZfdBthh-oHKuA/edit?utm_content=DAGQMXUbCtY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
