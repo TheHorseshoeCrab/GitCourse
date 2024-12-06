@@ -102,6 +102,10 @@
       "animal": "Crocodile"
     },
     {
+      "nombre": "Camila",
+      "animal":"Cat"
+    },
+    {
       "nombre": "Diego López",
       "animal": "Chinchilla"
     }, 
@@ -116,6 +120,10 @@
     {
       "nombre": "Kevin Avila",
       "animal": "Leopard"
+    },
+    {
+        "nombre": "Luis Benvenuto",
+        "animal": "Wolf"
     }
   ]
 }
