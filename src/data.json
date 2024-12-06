@@ -104,6 +104,10 @@
     {
       "nombre": "Diego López",
       "animal": "Chinchilla"
-    }    
+    }, 
+    {   
+      "nombre": "Fregoso",
+      "animal": "Dog"
+    }
   ]
 }
