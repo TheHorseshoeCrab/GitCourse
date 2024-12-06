@@ -102,10 +102,6 @@
       "animal": "Crocodile"
     },
     {
-      "nombre": "JustinRdz",
-      "animal": "Turtle"
-    },
-    {
       "nombre": "Camila",
       "animal":"Cat"
     },
@@ -116,6 +112,10 @@
     {
       "nombre": "Fregoso",
       "animal": "Dog"
+    },
+    {
+      "nombre": "JustinRdz",
+      "animal": "Turtle"
     }
   ]
 }
