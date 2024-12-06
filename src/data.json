@@ -106,6 +106,10 @@
       "animal": "Chinchilla"
     }, 
     {   
+      "nombre": "Daniela",
+      "animal": "Bear"
+    },
+    {
       "nombre": "Fregoso",
       "animal": "Dog"
     }
