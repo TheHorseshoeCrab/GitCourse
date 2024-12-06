@@ -104,6 +104,10 @@
     {
       "nombre": "Camila",
       "animal":"Cat"
+    },
+    {
+      "nombre": "Fregoso",
+      "animal": "Dog"
     }
   ]
 }
