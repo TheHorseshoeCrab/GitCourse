@@ -106,10 +106,10 @@
       "animal":"Cat"
     },
     {
-      "nombre": "Diego López",
-      "animal": "Chinchilla"
-    }, 
-    {   
+      "nombre": "Camila",
+      "animal":"Cat"
+    },
+    {
       "nombre": "Daniela",
       "animal": "Bear"
     },
@@ -122,12 +122,20 @@
       "animal": "Leopard"
     },
     {
-        "nombre": "Luis Benvenuto",
-        "animal": "Wolf"
+      "nombre": "Diego López",
+      "animal": "Chinchilla"
     },
     {
-        "nombre": "Tania",
-        "animal": "Isha"
+      "nombre": "Luis Benvenuto",
+      "animal": "Wolf"
+    },
+    {
+      "nombre": "Tania",
+      "animal": "Isha"
+    },
+    {
+      "nombre": "JustinRdz",
+      "animal": "Turtle"
     }
   ]
 }
