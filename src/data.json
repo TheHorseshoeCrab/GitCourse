@@ -106,12 +106,20 @@
       "animal":"Cat"
     },
     {
+      "nombre": "Camila",
+      "animal":"Cat"
+    },
+    {
       "nombre": "Daniela",
       "animal": "Bear"
     },
     {
       "nombre": "Fregoso",
       "animal": "Dog"
+    },
+    {
+      "nombre": "Kevin Avila",
+      "animal": "Leopard"
     },
     {
       "nombre": "JustinRdz",
